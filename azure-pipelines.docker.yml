@@ -17,6 +17,6 @@ steps:
   env:
     pswd: jmdjsj903291A
     dockerId: aontimer
-    imageName: pipelines-python-django:1
+    imageName: pipiline
   displayName: 'Build and push Docker image'
 
